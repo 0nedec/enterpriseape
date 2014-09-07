@@ -6,7 +6,7 @@ Powerful Software
 
 ### Welcome to this Repo!
 
-Feel free to access [my other projects](https://0nedec.github.com)
+Feel free to access [my other projects](https://github.com/0nedec)
 
 ### What is this?
 
