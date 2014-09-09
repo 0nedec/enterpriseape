@@ -20,4 +20,3 @@ class InvoiceSearch
   end
   
 end
-
